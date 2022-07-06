@@ -45,6 +45,12 @@ spirngboot的入门应用搭建案例 - springboot用来简化Spring应用的**�
 
 + p14 Restful在开发中的不足和注意事项
 
+控制器注解：@RestController = @Controller + @RequestBody 作用：设置当前控制器为RestFul开发风格
+
+方法注解：@GetMapping @PostMapping @PutMapping @DeleteMapping
+
+
+
 
 
 
