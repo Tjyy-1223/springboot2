@@ -31,8 +31,6 @@ spirngboot的入门应用搭建案例 - springboot用来简化Spring应用的**�
 
 ### 2 知识加油站 - RESTful知识讲解
 
-
-
 视频讲解：p12-p14
 
 原理知识：
@@ -40,4 +38,16 @@ spirngboot的入门应用搭建案例 - springboot用来简化Spring应用的**�
 + p12 ：什么是Rest风格，隐藏了访问行为，使用访问资源时的**行为动作**对**资源操作**进行区分。
 
 常用的行为动作：GET、POST、PUT、DELETE
+
++ p13 : 案例讲解 设置 RequestMapping(value = "users",method = ...) 以及
+
+   函数中的参数@PathVariable Interger id 、@RequestBody User user
+
++ p14 Restful在开发中的不足和注意事项
+
+
+
+
+
+
 
