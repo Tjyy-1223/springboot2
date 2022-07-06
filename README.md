@@ -55,7 +55,7 @@ spirngboot的入门应用搭建案例 - springboot用来简化Spring应用的**�
 
 添加springboot web项目模版工程：springboot_xx_xxx
 
-代码：
+代码：https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_02_base_configuration
 
 主要讲解Spring配置文件相关内容,推荐用**yml**配置springboot。需要掌握的关键点：
 
