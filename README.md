@@ -51,11 +51,24 @@ spirngboot的入门应用搭建案例 - springboot用来简化Spring应用的**�
 
 
 
-### 3 SpringBoot基础配置
+### 3 springboot_02_base_configuration
 
 添加springboot web项目模版工程：springboot_xx_xxx
 
-视频讲解
+代码：
+
+主要讲解Spring配置文件相关内容,推荐用**yml**配置springboot。需要掌握的关键点：
+
++ yml文件的配置格式
++ @Value + ${value}获取字段
++ @Autowired 自动注入
++ @Component + @ConfigurationProperties(prefix = "datasource")
+
+视频讲解：p12 - p25
+
+
+
+
 
 
 

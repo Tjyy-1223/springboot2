@@ -1,0 +1,27 @@
+server:
+  port: 80
+
+country: china
+
+likes:
+  - game
+  - music
+  - sleep
+
+users:
+  -
+    name: zhangsan
+    age: 18
+  -
+    name: lisi
+    age: 17
+
+# 创建类 封装数据
+# 使用spring帮助加载信息
+# 从spring中获取对象
+datasource:
+  driver: com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost/springboot_db
+  username: root
+  password: 991116
+
