@@ -51,6 +51,12 @@ spirngboot的入门应用搭建案例 - springboot用来简化Spring应用的**�
 
 
 
+### 3 SpringBoot基础配置
+
+添加springboot web项目模版工程：springboot_xx_xxx
+
+视频讲解
+
 
 
 
