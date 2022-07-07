@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot_xx_xxx" />
+        <module name="springboot_05_mybatis" />
         <module name="springboot_01_01_quickstart" />
         <module name="springboot_02_base_configuration" />
         <module name="springboot_04_junit" />
@@ -16,6 +17,7 @@
       <module name="springboot_01_01_quickstart" target="1.8" />
       <module name="springboot_02_base_configuration" target="1.8" />
       <module name="springboot_04_junit" target="1.8" />
+      <module name="springboot_05_mybatis" target="1.8" />
       <module name="springboot_xx_xxx" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -24,6 +26,7 @@
       <module name="springboot_01_01_quickstart" options="-parameters" />
       <module name="springboot_02_base_configuration" options="-parameters" />
       <module name="springboot_04_junit" options="-parameters" />
+      <module name="springboot_05_mybatis" options="-parameters" />
       <module name="springboot_xx_xxx" options="-parameters" />
     </option>
   </component>
