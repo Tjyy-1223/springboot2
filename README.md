@@ -94,7 +94,7 @@ spirngboot的入门应用搭建案例 - springboot用来简化Spring应用的**�
 
 ### 6 springboot_06_mybatis_plus
 
-代码
+代码:https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_06_mybatis_plus
 
 对SpringBoot以及mybatis-plus的整合开发
 
@@ -102,4 +102,6 @@ spirngboot的入门应用搭建案例 - springboot用来简化Spring应用的**�
 + 数据层接口使用BaseMapper简化开发
 
 视频：p30
+
+
 
