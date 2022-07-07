@@ -74,11 +74,18 @@ spirngboot的入门应用搭建案例 - springboot用来简化Spring应用的**�
 
 主要对springBoot和junit之间的技术整合进行了讲解，注意引导类和测试类的包含关系
 
+视频：p26-p27
 
 
 
+### 5 springboot_05_mybatis
 
+代码：https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_05_mybatis
 
+对SpringBoot以及mybatis的整合进行讲解
 
++ 使用@Mapper对实现接口进行扫描
++ 使用@Select编写sql语句
++ @Autowerid进行自动注入
 
-
+视频：p28-p29
