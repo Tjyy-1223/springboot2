@@ -89,3 +89,17 @@ spirngboot的入门应用搭建案例 - springboot用来简化Spring应用的**�
 + @Autowerid进行自动注入
 
 视频：p28-p29
+
+
+
+### 6 springboot_06_mybatis_plus
+
+代码
+
+对SpringBoot以及mybatis-plus的整合开发
+
++ 手工添加Mybatis-Plus对应的Starter
++ 数据层接口使用BaseMapper简化开发
+
+视频：p30
+
