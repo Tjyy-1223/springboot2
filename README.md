@@ -107,7 +107,7 @@ spirngboot的入门应用搭建案例 - springboot用来简化Spring应用的**�
 
 ### 7 springboot_07_druid
 
-代码：
+代码：https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_07_druid
 
 对Springboot + Mybatis + MP + Druid进行整合开发
 
@@ -115,4 +115,6 @@ spirngboot的入门应用搭建案例 - springboot用来简化Spring应用的**�
 + 配置对应的设置或采用默认配置
 
 视频：p31-p32
+
+
 
