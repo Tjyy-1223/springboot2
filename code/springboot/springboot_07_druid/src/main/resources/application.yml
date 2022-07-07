@@ -1,0 +1,24 @@
+# 2.配置数据库信息
+# 通用配置
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/mybatis
+#    username: root
+#    password: 991116
+#    type: com.alibaba.druid.pool.DruidDataSource
+
+# druid经典配置
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/mybatis
+      username: root
+      password: 991116
+
+
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: tbl_
