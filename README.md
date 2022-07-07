@@ -1,6 +1,6 @@
 # springboot2
 
-### 介绍
+## 介绍
 2022暑假 对springboot2进行一个全面学习
 
 视频讲解：https://www.bilibili.com/video/BV15b4y1a7yG?p=1&vd_source=9a47b26e060b09ee3b6edc173c4809ea
@@ -10,6 +10,8 @@
 pdf等其他资料之后上传在飞书链接中
 
 
+
+## 1 - 基础篇
 
 ### 1 springboot_01_01_quickstart
 
@@ -114,7 +116,28 @@ spirngboot的入门应用搭建案例 - springboot用来简化Spring应用的**�
 + 导入对应的starter
 + 配置对应的设置或采用默认配置
 
-视频：p31-p32
+视频：p31
 
 
 
+### 8 springboot_08_ssmp
+
+代码：
+
+**可以将Vue作为补充内容进行学习，打算之后写自己的网页**
+
+SSMP进行整合案例开发 - 可以看作是springboot应用的一个简单小例子
+
+包括内容：
+
++ 前后端交互协议 + RestFul + PostMan
+
++ 后端springboot：实体类 + DAO + Service  + Controller 相关开发
++ 前端VUE+ElementUI：页面数据处理 + 页面消息处理
++ 项目异常处理
+
+视频：p32-p50 基础篇结束
+
+
+
+## 2 - 运维实用篇
