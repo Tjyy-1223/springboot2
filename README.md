@@ -68,6 +68,12 @@ spirngboot的入门应用搭建案例 - springboot用来简化Spring应用的**�
 
 
 
+### 4 springboot_04_junit
+
+代码：https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_04_junit
+
+主要对springBoot和junit之间的技术整合进行了讲解，注意引导类和测试类的包含关系
+
 
 
 
