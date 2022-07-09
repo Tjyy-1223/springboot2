@@ -19,14 +19,16 @@ public class BookController {
     private IBookService bookService;
 
     @GetMapping
-    public R getAll(){
+    public R getAll() throws IOException {
+
         return new R(true,bookService.list());
     }
 
     @PostMapping
     public R save(@RequestBody Book book) throws IOException {
-        if(true) throw new IOException();
-        return new R(bookService.save(book));
+        if(book.getName().equals("123")) throw new IOException();
+        Boolean flag = bookService.save(book);
+        return new R(flag , flag ? "添加成功^_^" : "添加失败-_-!");
     }
 
     @PutMapping
