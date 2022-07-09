@@ -8,6 +8,7 @@ import org.apache.ibatis.annotations.Delete;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+import java.io.IOException;
 import java.util.List;
 
 @RestController
@@ -23,7 +24,8 @@ public class BookController {
     }
 
     @PostMapping
-    public R save(@RequestBody Book book){
+    public R save(@RequestBody Book book) throws IOException {
+        if(true) throw new IOException();
         return new R(bookService.save(book));
     }
 
