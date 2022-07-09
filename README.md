@@ -122,7 +122,7 @@ spirngboot的入门应用搭建案例 - springboot用来简化Spring应用的**�
 
 ### 8 springboot_08_ssmp
 
-代码：
+代码：https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_08_ssmp
 
 **可以将Vue作为补充内容进行学习，打算之后写自己的网页**
 
