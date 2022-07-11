@@ -13,6 +13,8 @@ pdf等其他资料之后上传在飞书链接中
 
 ## 1 - 基础篇
 
+**讲义地址：**[SpringBoot基础版.pdf](https://gitee.com/tianjiangyu/springboot2/blob/master/resource/SpringBoot基础版.pdf)
+
 ### 1 springboot_01_01_quickstart
 
 代码：https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_01_01_quickstart
@@ -141,6 +143,8 @@ SSMP进行整合案例开发 - 可以看作是springboot应用的一个简单小
 
 
 ## 2 - 运维实用篇
+
+**讲义地址：**[SpringBoot运维实用篇.pdf](https://gitee.com/tianjiangyu/springboot2/blob/master/resource/SpringBoot运维实用篇.pdf)
 
 视频P51-p53:
 
