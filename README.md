@@ -191,19 +191,24 @@ SSMP进行整合案例开发 - 可以看作是springboot应用的一个简单小
 
 ### 3.2 配置高级
 
-代码：
+代码：[springboot_13_configuration](https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_13_configuration)
 
 讲解springboot2中存在的高级配置操作
 
++ ConfigurationProperties
++ 宽松绑定/松散绑定
++ 常用计量单位绑定
++ 数据校验
 
-
-视频：
+视频：p71-p75
 
 
 
 ### 3.3 测试
 
+代码：
 
+测试属性、配置以及Web环境下的测试应用
 
 
 
