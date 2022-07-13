@@ -146,25 +146,25 @@ SSMP进行整合案例开发 - 可以看作是springboot应用的一个简单小
 
 **讲义地址：**[SpringBoot运维实用篇.pdf](https://gitee.com/tianjiangyu/springboot2/blob/master/resource/SpringBoot运维实用篇.pdf)
 
-视频P51-p53:
+视频P54-p57:
 
 + 了解Maven的打包和运行原理
 + 如何在Windows和linex上分别部署服务器
 
-视频p54-p55:
+视频p57-p58:
 
 + 如何在部署项目\idea编程时更换一个访问端口：--server.port
 
-视频P56-p57:
+视频P59-p60:
 
 + 配置文件4级分类
 + 自定义配置文件
 
-视频：p58-p62:
+视频：p61-p65:
 
 + springboot多环境开发
 
-视频：p63-p66:
+视频：p66-p69:
 
 + 日志输出控制管理
 
@@ -200,7 +200,7 @@ SSMP进行整合案例开发 - 可以看作是springboot应用的一个简单小
 + 常用计量单位绑定
 + 数据校验
 
-视频：p71-p75
+视频：p74-p78
 
 
 
@@ -209,6 +209,14 @@ SSMP进行整合案例开发 - 可以看作是springboot应用的一个简单小
 代码：
 
 测试属性、配置以及Web环境下的测试应用
+
++ 加载测试专用属性
++ 加载测试专用配置
++ Web环境模拟测试
++ 数据层测试回滚
++ 测试用例数据设定
+
+视频：p79-p88
 
 
 
