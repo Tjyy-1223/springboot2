@@ -7,3 +7,6 @@ logging:
     root: info
     ebank: debug
 #    com.itheima.controller: debug
+
+#  file:
+#    name: server.log
