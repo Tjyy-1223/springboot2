@@ -206,7 +206,7 @@ SSMP进行整合案例开发 - 可以看作是springboot应用的一个简单小
 
 ### 3.3 测试
 
-代码：
+代码：[springboot_14_test](https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_14_test)
 
 测试属性、配置以及Web环境下的测试应用
 
