@@ -172,9 +172,18 @@ SSMP进行整合案例开发 - 可以看作是springboot应用的一个简单小
 
 ## 3 - 开发实用篇
 
-讲义地址：
+讲义地址：[SpringBoot开发实用篇.pptx](https://gitee.com/tianjiangyu/springboot2/blob/master/resource/SpringBoot开发实用篇.pptx)
 
 ### 3.1 热部署
+
+代码：[springboot_12_hot_deploy](https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_12_hot_deploy)
+
+讲解了什么是热部署以及如何在IDEA中启动热部署
+
++ 手动启动热部署
++ 自动启动热部署
++ 热部署范围配置
++ 关闭热部署
 
 视频：p70 - p73
 
