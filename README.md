@@ -260,7 +260,15 @@ J2Cache代码：[springboot_21_j2cache](https://gitee.com/tianjiangyu/springboot
 
 
 
-**2 任务：**
+**2 任务：**定时任务是企业级应用中的常见操作，例如年度报表、缓存统计报告等
+
+常见的定时任务技术：Quartz、Spring Task
+
+代码：
+
+视频讲解：p121-p122
+
+
 
 
 
