@@ -248,8 +248,17 @@ NOSQL：Redis,Mongo,ES 相关技术整合，有需要的时候再进行学习
 代码：[springboot_19_cache](https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot)
 
 + EHcache + Redis + memcached+j2chache
++ JetCache：对spring cache进行了封装，在原有功能上实现了多级缓存、缓存统计、自动刷新、异步调用、数据报表
+
+代码：
+
++ 
 
 视频讲解：p107-120 讲解了各种cache的使用方法，根据以后项目中的应用自行深入学习
+
+
+
+**2 任务：**
 
 
 
