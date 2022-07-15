@@ -245,9 +245,11 @@ NOSQL：Redis,Mongo,ES 相关技术整合，有需要的时候再进行学习
 + @EnableCaching
 + @Cacheable(value="cacheSpace",key="#id")
 
-代码：
+代码：[springboot_19_cache](https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot)
 
-视频讲解：p107-
++ EHcache + Redis + memcached+j2chache
+
+视频讲解：p107-120 讲解了各种cache的使用方法，根据以后项目中的应用自行深入学习
 
 
 
