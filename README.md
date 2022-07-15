@@ -248,11 +248,13 @@ NOSQL：Redis,Mongo,ES 相关技术整合，有需要的时候再进行学习
 代码：[springboot_19_cache](https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot)
 
 + EHcache + Redis + memcached+j2chache
-+ JetCache：对spring cache进行了封装，在原有功能上实现了多级缓存、缓存统计、自动刷新、异步调用、数据报表
++ JetCache：对spring cache进行了封装，在原有功能上实现了多级缓存、缓存统计、自动刷新、异步调用、数据报表。
 
-代码：
+JetCache代码：
 
-+ 
++ J2Cache是一个缓存整合框架，可以提供缓存的整合方案，使各种缓存搭配使用，自身不提供缓存功能。
+
+J2Cache代码：
 
 视频讲解：p107-120 讲解了各种cache的使用方法，根据以后项目中的应用自行深入学习
 

@@ -22,6 +22,7 @@
         <module name="springboot_13_configuration" />
         <module name="springboot_02_base_configuration" />
         <module name="springboot_12_hot_deploy" />
+        <module name="springboot_21_j2cache" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -38,6 +39,7 @@
       <module name="springboot_14_test" target="1.8" />
       <module name="springboot_19_cache" target="1.8" />
       <module name="springboot_20_jetcache" target="1.8" />
+      <module name="springboot_21_j2cache" target="1.8" />
       <module name="springboot_xx_xxx" target="1.8" />
       <module name="springboot_xx_xxx (1)" target="1.8" />
     </bytecodeTargetLevel>
@@ -57,6 +59,7 @@
       <module name="springboot_14_test" options="-parameters" />
       <module name="springboot_19_cache" options="-parameters" />
       <module name="springboot_20_jetcache" options="-parameters" />
+      <module name="springboot_21_j2cache" options="-parameters" />
       <module name="springboot_xx_xxx" options="-parameters" />
       <module name="springboot_xx_xxx (1)" options="-parameters" />
     </option>
