@@ -240,7 +240,9 @@ NOSQL：Redis,Mongo,ES 相关技术整合，有需要的时候再进行学习
 
 模块分为缓存、任务、邮件、消息
 
-**1 缓存：**spirngboot提供了缓存技术 让程序变得高效，方便缓存使用
+**1 缓存：**
+
+spirngboot提供了缓存技术 让程序变得高效，方便缓存使用
 
 + @EnableCaching
 + @Cacheable(value="cacheSpace",key="#id")
@@ -260,11 +262,13 @@ J2Cache代码：[springboot_21_j2cache](https://gitee.com/tianjiangyu/springboot
 
 
 
-**2 任务：**定时任务是企业级应用中的常见操作，例如年度报表、缓存统计报告等
+**2 任务：**
+
+定时任务是企业级应用中的常见操作，例如年度报表、缓存统计报告等
 
 常见的定时任务技术：Quartz、Spring Task
 
-代码：
+代码：[springboot_22_task](https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_22_task)
 
 视频讲解：p121-p122
 
