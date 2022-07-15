@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot_12_hot_deploy/springboot_12_hot_deploy.iml" filepath="$PROJECT_DIR$/springboot_12_hot_deploy/springboot_12_hot_deploy.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_13_configuration/springboot_13_configuration.iml" filepath="$PROJECT_DIR$/springboot_13_configuration/springboot_13_configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_14_test/springboot_14_test.iml" filepath="$PROJECT_DIR$/springboot_14_test/springboot_14_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_19_cache/springboot_19_cache.iml" filepath="$PROJECT_DIR$/springboot_19_cache/springboot_19_cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_xx_xxx/springboot_xx_xxx.iml" filepath="$PROJECT_DIR$/springboot_xx_xxx/springboot_xx_xxx.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_11_log/springboot_xx_xxx (1).iml" filepath="$PROJECT_DIR$/springboot_11_log/springboot_xx_xxx (1).iml" />
     </modules>

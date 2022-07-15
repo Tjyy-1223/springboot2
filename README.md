@@ -238,7 +238,16 @@ NOSQL：Redis,Mongo,ES 相关技术整合，有需要的时候再进行学习
 
 ### 3.5 整合第三方技术
 
-分为缓存、任务、邮件、消息
+模块分为缓存、任务、邮件、消息
+
+**1 缓存：**spirngboot提供了缓存技术 让程序变得高效，方便缓存使用
+
++ @EnableCaching
++ @Cacheable(value="cacheSpace",key="#id")
+
+代码：
+
+视频讲解：p107-
 
 
 
