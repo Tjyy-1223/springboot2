@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot_22_task" />
+        <module name="springboot_23_mail" />
         <module name="springboot_05_mybatis" />
         <module name="springboot_20_jetcache" />
         <module name="springboot_07_druid" />
@@ -42,6 +43,7 @@
       <module name="springboot_20_jetcache" target="1.8" />
       <module name="springboot_21_j2cache" target="1.8" />
       <module name="springboot_22_task" target="1.8" />
+      <module name="springboot_23_mail" target="1.8" />
       <module name="springboot_xx_xxx" target="1.8" />
       <module name="springboot_xx_xxx (1)" target="1.8" />
     </bytecodeTargetLevel>
@@ -63,6 +65,7 @@
       <module name="springboot_20_jetcache" options="-parameters" />
       <module name="springboot_21_j2cache" options="-parameters" />
       <module name="springboot_22_task" options="-parameters" />
+      <module name="springboot_23_mail" options="-parameters" />
       <module name="springboot_xx_xxx" options="-parameters" />
       <module name="springboot_xx_xxx (1)" options="-parameters" />
     </option>

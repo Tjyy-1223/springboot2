@@ -274,6 +274,14 @@ J2Cache代码：[springboot_21_j2cache](https://gitee.com/tianjiangyu/springboot
 
 
 
+**3 邮件：**
+
+springboot可以整合JavaMail，如SMTP、POP3、IMAP
+
+代码：
+
+视频讲解：p119-p120
+
 
 
 ### 3.6 监控
