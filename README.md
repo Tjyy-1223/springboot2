@@ -278,7 +278,7 @@ J2Cache代码：[springboot_21_j2cache](https://gitee.com/tianjiangyu/springboot
 
 springboot可以整合JavaMail，如SMTP、POP3、IMAP
 
-代码：
+代码：[springboot_23_mail](https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_23_mail)
 
 视频讲解：p119-p120
 
