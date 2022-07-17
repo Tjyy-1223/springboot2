@@ -17,6 +17,7 @@
         <module name="springboot_06_mybatis_plus" />
         <module name="springboot_xx_xxx" />
         <module name="springboot_xx_xxx (1)" />
+        <module name="springboot_27_bean_init" />
         <module name="springboot_19_cache" />
         <module name="springboot_24_mq" />
         <module name="springboot_10_profiles" />
@@ -46,6 +47,7 @@
       <module name="springboot_22_task" target="1.8" />
       <module name="springboot_23_mail" target="1.8" />
       <module name="springboot_24_mq" target="1.8" />
+      <module name="springboot_27_bean_init" target="1.8" />
       <module name="springboot_xx_xxx" target="1.8" />
       <module name="springboot_xx_xxx (1)" target="1.8" />
     </bytecodeTargetLevel>

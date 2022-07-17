@@ -1,0 +1,11 @@
+package com.tjyy.bean.config;
+
+import com.tjyy.bean.Dog;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Import;
+import org.springframework.context.annotation.ImportResource;
+
+@Import(Dog.class)
+public class SpringConfig4 {
+}
