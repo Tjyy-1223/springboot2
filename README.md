@@ -293,7 +293,7 @@ springboot可以整合JavaMail，如SMTP、POP3、IMAP
 + RocketMQ
 + Kafka
 
-代码：
+代码：[springboot_24_mq](https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_24_mq)
 
 视频讲解：p125-p135
 
