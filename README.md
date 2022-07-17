@@ -320,7 +320,7 @@ springboot可以整合JavaMail，如SMTP、POP3、IMAP
 
 对于配置中Bean的配置原理和配置过程（xml + 注解），讲解了8种不同的Bean配置原理。
 
-代码：
+代码：[springboot_27_bean_init](https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_27_bean_init)
 
 视频：p143-p152
 
