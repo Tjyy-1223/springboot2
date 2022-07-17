@@ -284,4 +284,19 @@ springboot可以整合JavaMail，如SMTP、POP3、IMAP
 
 
 
+**4 消息：**
+
+三种异步消息传递技术：JMS、AMQP、MQTT、KafKa（消息处理，高吞吐量分布式技术）
+
++ ActiveMQ
++ RabbitMQ
++ RocketMQ
++ Kafka
+
+代码：
+
+视频讲解：p125-p135
+
+
+
 ### 3.6 监控
