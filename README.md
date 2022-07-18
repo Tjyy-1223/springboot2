@@ -315,7 +315,7 @@ springboot可以整合JavaMail，如SMTP、POP3、IMAP
 ## 4 - 原理篇
 
 + 看着讲义 + 视频进行学习
-+ 讲义地址：
++ 讲义地址：[SpringBoot原理篇.pdf](https://gitee.com/tianjiangyu/springboot2/blob/master/resource/SpringBoot原理篇.pdf)
 
 
 
