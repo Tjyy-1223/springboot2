@@ -24,6 +24,7 @@
         <option value="$PROJECT_DIR$/springboot_23_mail/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_24_mq/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_27_bean_init/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_28_bean_load/pom.xml" />
       </list>
     </option>
   </component>

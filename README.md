@@ -314,9 +314,7 @@ springboot可以整合JavaMail，如SMTP、POP3、IMAP
 
 ## 4 - 原理篇
 
-### 01 自动配置
-
-+ Bean加载方式
+### 4.1 Bean加载方式
 
 对于配置中Bean的配置原理和配置过程（xml + 注解），讲解了8种不同的Bean配置原理。
 
@@ -324,13 +322,24 @@ springboot可以整合JavaMail，如SMTP、POP3、IMAP
 
 视频：p143-p152
 
-+ Bean加载控制
+
+
+### 4.2 Bean加载控制
+
+如何根据条件控制Bean的加载过程 @Conditional...。
 
 代码：
 
 视频：p153-p154
 
-+ Bean依赖属性配置
 
-+ 自动配置原理
-+ 变更自动配置
+
+### 4.3 Bean依赖属性配置
+
+
+
+### 4.4 自动配置原理
+
+
+
+### 4.5 变更自动配置
