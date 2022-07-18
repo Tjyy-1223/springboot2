@@ -328,7 +328,7 @@ springboot可以整合JavaMail，如SMTP、POP3、IMAP
 
 如何根据条件控制Bean的加载过程 @Conditional...。
 
-代码：
+代码：[springboot_28_bean_load](https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_28_bean_load)
 
 视频：p153-p154
 
