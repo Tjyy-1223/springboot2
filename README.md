@@ -373,10 +373,14 @@ springboot可以整合JavaMail，如SMTP、POP3、IMAP
 
 + 案例：统计独立Ip访问次数
 + 自定义starter
-+ 辅助功能开发
++ 辅助功能开发(设置定时任务 + 灵活配置控制 + **自动配置加载**)
 
-代码：
+代码：[ip_spring_boot_starter](https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/ip_spring_boot_starter)
 
 修改springboot_08_ssmp,使用自动配置加载业务功能,切记使用之前先clean后install安装到maven仓库，确保资源更新.
 
-视频：p161 - 
+视频：p161 - p167
+
+
+
+### 4.7 Springboot程序启动流程
