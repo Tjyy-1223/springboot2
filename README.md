@@ -336,10 +336,24 @@ springboot可以整合JavaMail，如SMTP、POP3、IMAP
 
 ### 4.3 Bean依赖属性配置
 
+属性依赖配置指的是 ： 使用外部配置文件给Bean进行配置.
+
++ **@ConfigurationProperties**(prefix = "cartoon") + yml配置文件
++ **@EnableConfigurationProperties**(CartoonProperties.class) + class + yml配置文件
+
+代码：
+
+视频：p155
+
 
 
 ### 4.4 自动配置原理
 
 
 
+
+
 ### 4.5 变更自动配置
+
+
+
