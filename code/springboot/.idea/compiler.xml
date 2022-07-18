@@ -19,6 +19,7 @@
         <module name="springboot_29_bean_properties" />
         <module name="springboot_xx_xxx" />
         <module name="springboot_xx_xxx (1)" />
+        <module name="ip_spring_boot_starter" />
         <module name="springboot_27_bean_init" />
         <module name="springboot_19_cache" />
         <module name="springboot_24_mq" />
@@ -32,6 +33,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ip_spring_boot_starter" target="1.8" />
       <module name="springboot_01_01_quickstart" target="1.8" />
       <module name="springboot_02_base_configuration" target="1.8" />
       <module name="springboot_04_junit" target="1.8" />
@@ -58,6 +60,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ip_spring_boot_starter" options="-parameters" />
       <module name="springboot_01_01_quickstart" options="-parameters" />
       <module name="springboot_02_base_configuration" options="-parameters" />
       <module name="springboot_04_junit" options="-parameters" />

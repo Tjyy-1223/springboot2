@@ -349,11 +349,34 @@ springboot可以整合JavaMail，如SMTP、POP3、IMAP
 
 ### 4.4 自动配置原理
 
+是对于自动配置的原理讲解和实际使用方法。
 
++ 自动配置原理
++ SpringBootApplication注解讲解
++ 如何使用之前讲过的注解方法 去理解SpringBoot的初始化自动配置过程
+
+视频：p156-p159
 
 
 
 ### 4.5 变更自动配置
 
++ 自定义自动配置 META-INF/spring.factories
++ 控制SpringBoot内置自动配置类加载
++ 通过注解@EnableAutoConfiguration属性排除自动配置项
+
+视频：p160
 
 
+
+### 4.6 自定义Starter
+
++ 案例：统计独立Ip访问次数
++ 自定义starter
++ 辅助功能开发
+
+代码：
+
+修改springboot_08_ssmp,使用自动配置加载业务功能,切记使用之前先clean后install安装到maven仓库，确保资源更新.
+
+视频：p161 - 

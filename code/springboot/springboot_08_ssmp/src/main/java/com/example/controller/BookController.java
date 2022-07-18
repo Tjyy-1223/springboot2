@@ -1,5 +1,6 @@
 package com.example.controller;
 
+import cn.itcast.service.ipCountService;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.example.controller.utils.R;
 import com.example.domain.Book;
@@ -17,6 +18,9 @@ public class BookController {
 
     @Autowired
     private IBookService bookService;
+
+    @Autowired
+    private ipCountService ipService;
 
     @GetMapping
     public R getAll() throws IOException {
@@ -49,6 +53,8 @@ public class BookController {
     @GetMapping("{currentPage}/{pageSize}")
     public R getPage(@PathVariable int currentPage,@PathVariable int pageSize,Book book){
         System.out.println(book);
+
+        ipService.count();
 
         IPage<Book> page = bookService.getPage(currentPage, pageSize,book);
         //如果当前页码值大于了总页码值，那么重新执行查询操作，使用最大页码值作为当前页码值
