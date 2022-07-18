@@ -341,7 +341,7 @@ springboot可以整合JavaMail，如SMTP、POP3、IMAP
 + **@ConfigurationProperties**(prefix = "cartoon") + yml配置文件
 + **@EnableConfigurationProperties**(CartoonProperties.class) + class + yml配置文件
 
-代码：
+代码：[springboot_29_bean_properties](https://gitee.com/tianjiangyu/springboot2/tree/master/code/springboot/springboot_29_bean_properties)
 
 视频：p155
 
