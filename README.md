@@ -397,6 +397,8 @@ springboot可以整合JavaMail，如SMTP、POP3、IMAP
 
 ### 4.7 核心原理 - Springboot程序启动流程
 
+主要是对Springboot程序启动流程，跟着源码 + 断点的过程逐步分析底层原理。
+
 + Springboot启动流程
 + 容器类型选择
 + 监听器
