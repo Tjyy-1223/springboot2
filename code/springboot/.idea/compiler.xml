@@ -54,6 +54,7 @@
       <module name="springboot_27_bean_init" target="1.8" />
       <module name="springboot_28_bean_load" target="1.8" />
       <module name="springboot_29_bean_properties" target="1.8" />
+      <module name="springboot_30_startup" target="1.8" />
       <module name="springboot_xx_xxx" target="1.8" />
       <module name="springboot_xx_xxx (1)" target="1.8" />
     </bytecodeTargetLevel>
@@ -78,6 +79,7 @@
       <module name="springboot_22_task" options="-parameters" />
       <module name="springboot_23_mail" options="-parameters" />
       <module name="springboot_24_mq" options="-parameters" />
+      <module name="springboot_30_startup" options="-parameters" />
       <module name="springboot_xx_xxx" options="-parameters" />
       <module name="springboot_xx_xxx (1)" options="-parameters" />
     </option>

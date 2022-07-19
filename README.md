@@ -397,6 +397,4 @@ springboot可以整合JavaMail，如SMTP、POP3、IMAP
 + 容器类型选择
 + 监听器
 
-代码：
-
 视频：p168-p174
