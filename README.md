@@ -3,11 +3,15 @@
 ## 介绍
 2022暑假 对springboot2进行一个全面学习
 
-视频讲解：https://www.bilibili.com/video/BV15b4y1a7yG?p=1&vd_source=9a47b26e060b09ee3b6edc173c4809ea
+主页：https://gitee.com/tianjiangyu/springboot2
 
-代码保存在Code文件夹下
+b站视频讲解：https://www.bilibili.com/video/BV15b4y1a7yG?p=1&vd_source=9a47b26e060b09ee3b6edc173c4809ea
 
-pdf等其他资料之后上传在飞书链接中
+视频相关源代码地址 springboot2/resource/code ：[code](https://gitee.com/tianjiangyu/springboot2/tree/master/resource/code)
+
+视频相关pdf讲义地址 springboot2/resource/*.pdf ：[resource](https://gitee.com/tianjiangyu/springboot2/tree/master/resource)
+
+我的学习记录 springboot2/code ：[code](https://gitee.com/tianjiangyu/springboot2/tree/master/code)
 
 
 
